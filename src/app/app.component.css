@@ -1,0 +1,13 @@
+.con{
+    position:relative;
+
+    height:400px;
+    font-size:25px;
+}
+li{
+background-color:lightgrey;
+padding:40px 40px 40px 40px;
+margin:10px;
+list-style-type:none;
+
+}
